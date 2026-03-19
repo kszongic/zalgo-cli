@@ -1,0 +1,20 @@
+{
+  "name": "@kszongic/zalgo-cli",
+  "version": "1.0.0",
+  "description": "Generate creepy zalgo text from the command line. Zero dependencies.",
+  "main": "index.js",
+  "bin": {
+    "zalgo": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js hello"
+  },
+  "keywords": ["zalgo", "text", "glitch", "creepy", "unicode", "cli", "fun"],
+  "author": "kszongic",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kszongic/zalgo-cli"
+  },
+  "homepage": "https://github.com/kszongic/zalgo-cli#readme"
+}
